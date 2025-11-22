@@ -195,13 +195,23 @@
               "icon": "lucide-list",
               "title": "Outline of fdsfdsfds"
             }
+          },
+          {
+            "id": "5dddc19d02d9d811",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,12 +221,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "a96d2f85a3dc977b",
   "lastOpenFiles": [
-    "Welcome.md",
-    "fdsfdsfds.md"
+    "Untitled.base",
+    "Untitled 1.base",
+    "fdsfdsfds.md",
+    "Welcome.md"
   ]
 }
