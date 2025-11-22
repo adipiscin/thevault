@@ -11,14 +11,10 @@
             "id": "92e01d80abe712ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "fdsfdsfds.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "fdsfdsfds"
+              "title": "New tab"
             }
           }
         ]
@@ -168,9 +164,10 @@
   },
   "active": "92e01d80abe712ef",
   "lastOpenFiles": [
+    "fdsfdsfds.md",
+    "Notes structure.md",
     "One fsdhjkre.md",
     "new file.md",
-    "fdsfdsfds.md",
     "Welcome.md"
   ]
 }
